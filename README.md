@@ -3,8 +3,8 @@
 <p><em>Software Development Enginner-II (SDE-II) at <a href="http://www.ibm.com">IBM GTS Labs </a><img src="https://media.giphy.com/media/l0IygV3jQxJGQxXTa/giphy.gif" width="30" height="25" ></br>Developer Consultant at <a href="https://www.kyndryl.com">Kyndryl</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: narendrabtechcse](https://img.shields.io/badge/-narendrajavadeveloper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendrajavadeveloper/)](https://www.linkedin.com/in/narendrajavadeveloper/)
-[![GitHub narendrabtechcse](https://img.shields.io/github/followers/narendrabtechcse?label=follow&style=social)](https://github.com/narendrabtechcse)
+[![Linkedin: narendrabtechcse](https://img.shields.io/badge/-connectwithnarendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendrajavadeveloper/)](https://www.linkedin.com/in/narendrajavadeveloper/)
+[![GitHub narendrabtechcse](https://img.shields.io/github/followers/narendrabtechcse?label=follownarendra&style=social)](https://github.com/narendrabtechcse)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
