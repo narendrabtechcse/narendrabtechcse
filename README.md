@@ -1,6 +1,6 @@
 <h2> Hi 👋 , I'm Narendra Agrawal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif" width="230">
-<p><em>Software Development Enginner-II (SDE-II) at <a href="http://www.ibm.com">IBM GTS Labs</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.kyndryl.com">Kyndryl</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Development Enginner-II (SDE-II) at <a href="http://www.ibm.com">IBM GTS Labs </a><img src="https://media.giphy.com/media/l0IygV3jQxJGQxXTa/giphy.gif" width="30" height="25" ></br>Developer Consultant at <a href="https://www.kyndryl.com">Kyndryl</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: narendrabtechcse](https://img.shields.io/badge/-narendrajavadeveloper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendrajavadeveloper/)](https://www.linkedin.com/in/narendrajavadeveloper/)
