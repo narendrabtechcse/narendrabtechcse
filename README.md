@@ -6,7 +6,17 @@
 [![Linkedin: narendrabtechcse](https://img.shields.io/badge/-connectwithnarendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendrajavadeveloper/)](https://www.linkedin.com/in/narendrajavadeveloper/)
 [![GitHub narendrabtechcse](https://img.shields.io/github/followers/narendrabtechcse?label=follownarendra&style=social)](https://github.com/narendrabtechcse)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const narendra = {
+  pronouns: "He" | "Him",
+  code: [Java, SpringBoot, MicroServices, Cloud Technologies, DS, Algos, Backend],
+  tools: [Dokcer, IntelliJ, Eclipse, Kubernates, Graphana, Kibana, ELK Stack, System Design , Design patterns],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing the leetcode days streak and open source project contribution these days to make the community stronger !!"
+}
+```
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
