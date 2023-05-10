@@ -17,7 +17,25 @@ const narendra = {
   challenge: "I am doing the leetcode days streak and open source project contribution these days to make the community stronger !!"
 }
 ```
+<i> 
+Software Engineer | Java Developer | Full Stack Developer
 
+Passionate software engineer with over 13 years of experience in the analysis, development, implementation, and testing of Java/J2EE applications. Skilled in the complete software development life cycle (SDLC), I have expertise in Java, J2EE, JavaScript, Spring Boot, Microservices, web services, and ORM. My strengths lie in my extensive knowledge of OOPS, OOAD, and UML concepts, as well as my understanding of REST web services.
+
+Throughout my career, I have successfully delivered projects in the Telecom and Financial domains, while also gaining experience in automation. I excel in multitasking and problem-solving, consistently meeting deadlines and budgets. With a strong enthusiasm for learning new technologies, I am adaptable to diverse platforms and industry environments.
+
+Currently, I am working as a Software Engineer at IBM GTS Labs, where I contribute to the development of cognitive automation solutions. I have successfully implemented numerous user stories, leveraging core Java, Spring Boot, Microservices, and REST APIs. In addition, I have extensive experience with tools such as Maven, JUnit, and Git for version control.
+
+In my previous role as an R&D Engineer at Nokia Networks, I was involved in fault management projects, utilizing my skills in core Java, Hibernate, and web services. I followed Agile methodologies and actively participated in sprint meetings to ensure timely delivery of high-quality solutions.
+
+As a System Analyst at Subex Limited, I worked on revenue assurance and Spark application projects, where I honed my expertise in Java, J2EE, GWT, and Hibernate. I developed modules, mentored junior team members, and actively contributed to the technical and functional aspects of the projects.
+
+My professional journey began at Antenna Software, where I gained experience in mobile application development using core Java and Antenna's mobility solution framework. I successfully delivered Dell Shopping and Pac life Insurance applications for Android devices, showcasing my UI development skills and integration with backend systems.
+
+Beyond my professional achievements, I have a keen interest in various activities outside of work. In my free time, I enjoy pursuing hobbies such as reading, playing the guitar, and traveling to explore new cultures and cuisines.
+
+Feel free to reach out to me at narendra.subex@gmail.com or +919632741928 to discuss opportunities for collaboration or to learn more about my experiences. I look forward to connecting with professionals who share a passion for technology and innovation.
+ </i>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
