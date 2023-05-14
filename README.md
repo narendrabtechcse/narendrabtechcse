@@ -14,7 +14,7 @@ const narendra = {
   code: [Java, SpringBoot, MicroServices, Cloud Technologies, DS, Algos, Backend],
   tools: [Dokcer, IntelliJ, Eclipse, Kubernates, Graphana, Kibana, ELK Stack, System Design , Design patterns],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the leetcode days streak and open source project contribution these days to make the community stronger !!"
+  challenge: "I am doing the open source project contribution these days to make the community stronger !!"
 }
 ```
 <i> 
