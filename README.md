@@ -20,6 +20,8 @@ const narendra = {
 <i> 
 Senior Software Engineer | Java Developer | Backend Developer
 
+
+
 Passionate software engineer with over 13 years of experience in the analysis, development, implementation, and testing of Java/J2EE applications. Skilled in the complete software development life cycle (SDLC), I have expertise in Java, J2EE, JavaScript, Spring Boot, Microservices, web services, and ORM. My strengths lie in my extensive knowledge of OOPS, OOAD, and UML concepts, as well as my understanding of REST web services.
 
 Throughout my career, I have successfully delivered projects in the Telecom and Financial domains, while also gaining experience in automation. I excel in multitasking and problem-solving, consistently meeting deadlines and budgets. With a strong enthusiasm for learning new technologies, I am adaptable to diverse platforms and industry environments.
